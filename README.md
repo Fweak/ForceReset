@@ -3,8 +3,9 @@ Simple Tool to Temp Disable Discord Accounts | Force them to Reset their passwor
 
 ![lmao](lmao.png)
 
-**Steps**:
-0. **Open Notepad**
+
+**Make sure to have notepad opened**<br>
+**Steps**:<br>
 1. Go to Github (Register if not alr)
 2. Go to settings (press your pfp on top right > settings)
 3. Left panel go to Developer Settings (scroll down)
